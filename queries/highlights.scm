@@ -142,6 +142,7 @@
   "try"
   "uses"
   "volatile"
+  ";"
   "when"
   "while"
   "with"
